@@ -27,6 +27,7 @@ pipeline {
         stage('Complete') {
             steps {
                 echo 'completed this simple java maven app!!!'
+                echo 'This looks pretty cool!'
             }
         }
         
