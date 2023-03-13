@@ -28,6 +28,7 @@ pipeline {
             steps {
                 echo 'completed this simple java maven app!!!'
                 echo 'This looks pretty cool!'
+                echo 'poll scm'
             }
         }
         
